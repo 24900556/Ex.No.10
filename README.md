@@ -70,81 +70,79 @@ content generation scenarios:
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
 
-##  Radiation
+##  Product launch announcement
 
 ### Basic prompt
 
-Explain radiation.
+Write a product launch announcement.
 
 ### First Draft Output
 
-Radiation is the transfer of energy through waves or particles. It can travel through space and is used in medicine, communication, and industry. Radiation can be natural or artificial and may be beneficial or harmful depending on exposure levels.
+A company has launched a new product for customers. The product includes modern features and aims to improve user experience. Customers can now purchase and explore the product.
 
 ### prompt techniques used
 
-<img width="859" height="381" alt="image" src="https://github.com/user-attachments/assets/54efa2c0-dcd6-4ec0-89b0-5c60cc0ced05" />
+<img width="857" height="412" alt="image" src="https://github.com/user-attachments/assets/09cd4508-026b-4239-83a9-696eb6b53e60" />
+
 
 ### Refined a prompt
 
-Explain radiation in a simple and beginner-friendly way.
-Include:
-Definition of radiation
-Types of radiation (ionizing and non-ionizing)
-Sources of radiation
-Real-life applications
-Advantages and harmful effects
+Write a product launch announcement in a simple and professional way.
 
-Avoid complex scientific terms.
+Include:
+
+Product name
+Main features
+Target users
+Benefits of the product
+Launch message and future impact
+
+Avoid technical language.
 
 Structure:
 
 Introduction
-Types of Radiation
-Applications
-Advantages and Disadvantages
+Product Features
+Benefits
+Launch Announcement
 Conclusion
 
 ### Refined output
 
 1. Introduction
 
-Radiation is the movement of energy from one place to another in the form of waves or particles. Radiation can travel through air, water, and even empty space. A common example is sunlight reaching Earth.
+We are excited to announce the launch of our new product, SmartLife Watch—a modern smartwatch designed to make everyday life easier and more connected.
 
+2. Product Features
 
-2. Types of Radiation
+SmartLife Watch includes:
 
-  Ionizing Radiation: High-energy radiation that can affect atoms and living cells. Examples: X-rays and gamma rays.
+Health and activity tracking
+Smart notifications
+Long battery life
+Stylish and lightweight design
+Easy mobile connectivity
+3. Benefits
 
-  Non-Ionizing Radiation: Lower-energy radiation used in daily life. Examples: radio waves, visible light, and microwaves.
+The smartwatch helps users:
 
-3. Applications
+Monitor daily activities
+Stay connected anytime
+Improve productivity
+Maintain a healthy lifestyle
+4. Launch Announcement
 
-   Medical imaging and treatment
-   Communication systems
-   Food preservation
-   Industrial testing
+SmartLife Watch is now officially available for customers. This launch represents our commitment to delivering innovative and user-friendly technology for everyday needs.
 
-4. Advantages:
+5. Conclusion
 
-   Helps diagnose diseases
-   Supports communication technologies
-   Used in scientific research
-
-5. Disadvantages:
-
-   Excessive exposure may damage cells
-   Long-term exposure can affect health
-   Requires proper safety measures
- 
- 6.Conclusion
-
- Radiation plays an important role in modern life and technology. While it provides many benefits in medicine and industry, controlled use and safety precautions are necessary to reduce  harmful effects.
-
+The launch of SmartLife Watch introduces a simple and efficient solution for modern users. With practical features and a user-focused design, the product aims to improve daily life and provide a better digital experience.
 
 
 ### comparison table
 
-<img width="857" height="356" alt="image" src="https://github.com/user-attachments/assets/bdbb431d-9c8d-4963-9738-2400d5b80be2" />
+<img width="860" height="377" alt="image" src="https://github.com/user-attachments/assets/51365b03-2aa8-444d-869b-e793dcd8a547" />
+
 
 
 ## Conclusion:
